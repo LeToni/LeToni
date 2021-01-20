@@ -17,12 +17,8 @@ const toni = {
 }
 var others = ["Azure DevOps", "Jenkins"];
 
-public string GoalDev() {
-  return "To contribute to open source.";
-}
-
-private string Goal(){
-  return "Explore more South East Asia";
+private string GoalNext(){
+  return "Participating in a marathon";
 }
 ```
 
