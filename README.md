@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently exploring Rust and Go programming language
-- :nerd_face: Sharing stuff that I learned, explored and also stuff that I use for my daily work
+- :nerd_face: Sharing stuff that I learned/explored but also things that I use for my daily work
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/toni-le-687331187/)
 - more to come...
