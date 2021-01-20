@@ -12,8 +12,8 @@ const toni = {
   code: [Java, C#, Python, Go, SQL],
   tools: [Ranorex, JMeter, Postman, SoapUI],
   frameworks: ["Selenium", "SpecFlow", ".Net"],
-  exploring: "Rust",
-  challenge: ["Advent of Code" focused on Go {and Rust}]
+  exploring: ["Rust"],
+  challenge: ["Advent of Code", "focused on Go {and Rust}"]
 }
 var others = ["Azure DevOps", "Jenkins"];
 
