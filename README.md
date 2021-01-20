@@ -5,9 +5,9 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/toni-le-687331187/)
 - more to come...
   
-[![Toni's github stats](https://github-readme-stats.vercel.app/api?username=LeToni&count_private=true&show_icons=true&theme=vue&hide_rank=false)](https://github.com/LeToni/github-readme-stats)
+[![Toni's github stats](https://github-readme-stats.vercel.app/api?username=LeToni&count_private=true&show_icons=true&theme=vue&hide_rank=false)](https://github.com/LeToni/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeToni)](https://github.com/LeToni/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeToni)](https://github.com/LeToni/github-readme-stats)
+
 <!--
 **LeToni/LeToni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
