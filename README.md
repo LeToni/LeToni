@@ -15,7 +15,7 @@ const toni = {
   exploring: ["Rust"],
   challenge: ["Advent of Code", "focused on Go {and Rust}"]
 }
-var others = ["Azure DevOps", "Jenkins"];
+var others = ["Azure DevOps"];
 
 private string GoalNext(){
   return "Compete in a marathon";
