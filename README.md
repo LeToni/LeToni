@@ -17,9 +17,6 @@ const toni = {
 }
 var others = ["Azure DevOps"];
 
-private string GoalNext(){
-  return "Compete in a marathon";
-}
 ```
 
 <table><tr><td valign="top" align="left">
