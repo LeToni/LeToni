@@ -13,7 +13,6 @@ const toni = {
   tools: [Ranorex, JMeter, Postman, SoapUI],
   frameworks: ["Selenium", "SpecFlow", ".Net"],
   exploring: ["Rust"],
-  challenge: ["Advent of Code", "focused on Go {and Rust}"]
 }
 var others = ["Azure DevOps"];
 
