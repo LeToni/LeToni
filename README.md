@@ -9,7 +9,7 @@ Sharing stuff that I learned/explored but also things that I use for my daily wo
  
 ```c#
 const toni = {
-  code: [Java, C#, Python, Go, SQL],
+  code: [C#, SQL],
   tools: [Ranorex, JMeter, Postman, SoapUI],
   frameworks: ["Selenium", "SpecFlow", ".Net"],
   exploring: ["Rust"],
