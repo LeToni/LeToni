@@ -18,16 +18,13 @@ var others = ["Azure DevOps"];
 
 ```
 
-<table><tr><td valign="top" align="left">
-  
-[![Toni's github stats](https://github-readme-stats.vercel.app/api?username=LeToni&count_private=true&show_icons=true&theme=vue&hide_rank=false)](https://github.com/LeToni/github-readme-stats) 
+## GitHub Stats
 
-</td><td valign="top" align="right">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeToni)](https://github.com/LeToni/github-readme-stats)
-  
-</td></tr></table>
-
+<a href="https://github.com/LeToni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeToni&show_icons=true&theme=shades-of-purple&count_private=true" alt="LeToni's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeToni&theme=shades-of-purple&layout=compact" 
+    alt="LeToni GitHub Top Languages" />
+</a>
  
 
 
