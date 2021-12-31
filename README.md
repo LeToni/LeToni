@@ -25,13 +25,13 @@ var others = ["Azure DevOps"];
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeToni&theme=tokyonight&layout=compact" 
     alt="LeToni GitHub Top Languages" />
 </a>
- 
+ <!--
  ## CodersRank
  <a>
  <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=letoni&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
 </a>
-
+-->
 
 
 <!--
